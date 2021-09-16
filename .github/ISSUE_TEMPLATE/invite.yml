@@ -1,8 +1,7 @@
 name: Invite me to organization
 description: Issue to get invited to Bauddhik-Geeks organization.
-title: "[invite]: "
+title: "[Invite]: "
 labels: ["invite me to organization"]
-
 body:
   - type: markdown
     attributes:
@@ -17,7 +16,7 @@ body:
     validations:
       required: false
 
-- type: input
+  - type: input
     id: Discord
     attributes:
       label: Discord Username
