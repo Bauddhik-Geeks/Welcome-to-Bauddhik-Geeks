@@ -9,6 +9,6 @@
   <img align="top" src="https://raw.githubusercontent.com/Nitesh-thapliyal/Nitesh-thapliyal/main/right.png" width="250" height="200"/> 
 
 </span>
-<h2>We are a community of tech geeks a place where you can learn, grow and have fun.<br> we used to share about the various opportunity, Find teammates for hackathons <br>or help each other.</h2>
+<h3>We are a community of tech geeks a place where you can learn, grow and have fun.<br> we used to share about the various opportunity, Find teammates for hackathons <br>or help each other.</h3>
 </p>
 
