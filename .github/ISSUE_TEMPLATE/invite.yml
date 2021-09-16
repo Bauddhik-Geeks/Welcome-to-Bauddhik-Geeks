@@ -2,8 +2,7 @@ name: 🤝Invite me to organization
 description: Issue to get invited to Bauddhik-Geeks organization.
 title: "[invite]: "
 labels: ["invite me to organization"]
-assignees:
-  - 
+
 body:
   - type: markdown
     attributes:
