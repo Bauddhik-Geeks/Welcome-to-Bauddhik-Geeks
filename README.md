@@ -1,7 +1,7 @@
 # Welcome to Bauddhik Geeks
 
 <p align="center">
-  <img align="top" src="https://cdn.discordapp.com/attachments/885062668858306590/888275561980502076/Untitled_design_1.png"> 
+  <img align="top" src="https://cdn.discordapp.com/attachments/885062668858306590/888283616046620702/Welcome_to_Bauddhik-Geeks.gif"> 
 
 
 
