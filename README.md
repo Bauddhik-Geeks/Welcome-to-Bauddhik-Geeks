@@ -7,19 +7,19 @@ Bauddhik-Geeks is a community which was created on 2020 by @Nitesh-Thapliyal. It
 The vission of our community is to help the student developers or professionals with the resrouces that will help them in their technical journer.
 In this vision of Bauddhik-Geeks there are lots of folks bhind it but the special mention to those who helped in reviving the community:
 
-Our core members:
-@priyanshupardhi
-@kamleshjoshi8102
-@Piyush-Codes7
+**Our core members:**
+- @priyanshupardhi
+- @kamleshjoshi8102
+- @Piyush-Codes7
 
-Our moderators:
-@adityamangal1
-@kevalvavaliya
-@abhigoyani
+**Our moderators:**
+- @adityamangal1
+- @kevalvavaliya
+- @abhigoyani
 
 ## Community socials:
-[Twitter]()
-[Instagram]()
+- [Twitter]()
+- [Instagram]()
 
 
   
