@@ -8,18 +8,14 @@ The vission of our community is to help the student developers or professionals 
 In this vision of Bauddhik-Geeks there are lots of folks behind it but the special mention to those who helped in reviving the community:
 
 **Our Core Members:**
-- [Priyanshu Pardhi](https://github.com/priyanshupardhi)
-- [Kamlesh Joshi](https://github.com/kamleshjoshi8102)
-- [Piyush Chandal](https://github.com/Piyush-Codes7)
+- [Priyanshu Pardhi](https://github.com/priyanshupardhi)💬 
+- [Kamlesh Joshi](https://github.com/kamleshjoshi8102)💬 
+- [Piyush Chandal](https://github.com/Piyush-Codes7)💬 
 
 **Our Moderators:**
-- [Aditya Mangal](https://github.com/adityamangal1)
-- [Keval Vavaliya](https://github.com/kevalvavaliya)
-- [Abhi Goyani](https://github.com/abhigoyani)
-**Our moderators:**
-- [@adityamangal1](https://github.com/adityamangal1) 	💬 
-- [@kevalvavaliya](https://github.com/kevalvavaliya) 	💬 
-- [@abhigoyani](https://github.com/abhigoyani) 	      💬 
+- [Aditya Mangal](https://github.com/adityamangal1) 💬  
+- [Keval Vavaliya](https://github.com/kevalvavaliya) 💬
+- [Abhi Goyani](https://github.com/abhigoyani) 💬
 
 ## Community socials:
 - [Twitter](https://twitter.com/BauddhikGeeks)
