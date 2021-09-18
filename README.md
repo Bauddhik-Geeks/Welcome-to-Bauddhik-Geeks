@@ -37,7 +37,7 @@ our aim is to provide:
  
 ## Members
 All the members are here. Thank you for your support.
-Add yourself [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md).
+Add yourself[here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md)
 
 ## Join us
 Join the [Discord server](https://discord.gg/atzZYdNMDF) to get connected. All the information will be shared here.
