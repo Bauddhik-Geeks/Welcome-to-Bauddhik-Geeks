@@ -7,8 +7,6 @@ Bauddhik-Geeks is a community that was created in 2020 by [Nitesh Thapliyal](htt
 The vision of our community is to help the student developers or professionals with the resources that will help them in their technical journey.
 In this vision of Bauddhik-Geeks there are lots of folks behind it but the special mention to those who helped in reviving the community:
   
-  <p align="center">
-  <img align="top" src="https://c.tenor.com/wLRHCg8iC5MAAAAC/members-members-only.gif"> 
 
 ⭐**Our Core Members:**
 - [Priyanshu Pardhi](https://github.com/priyanshupardhi)💬 
