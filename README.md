@@ -16,6 +16,10 @@ In this vision of Bauddhik-Geeks there are lots of folks behind it but the speci
 - [Aditya Mangal](https://github.com/adityamangal1)
 - [Keval Vavaliya](https://github.com/kevalvavaliya)
 - [Abhi Goyani](https://github.com/abhigoyani)
+**Our moderators:**
+- [@adityamangal1](https://github.com/adityamangal1) 	💬 
+- [@kevalvavaliya](https://github.com/kevalvavaliya) 	💬 
+- [@abhigoyani](https://github.com/abhigoyani) 	      💬 
 
 ## Community socials:
 - [Twitter](https://twitter.com/BauddhikGeeks)
@@ -47,5 +51,5 @@ We thank each and every individual who has joined us or will join for this missi
 
 ![](https://img.shields.io/github/repo-size/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bauddhik-Geeks">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2020-blueviolet">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2021-blueviolet">
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
