@@ -13,9 +13,9 @@ In this vision of Bauddhik-Geeks there are lots of folks bhind it but the specia
 - @Piyush-Codes7
 
 **Our moderators:**
-- @adityamangal1
-- @kevalvavaliya
-- @abhigoyani
+- [@adityamangal1](https://github.com/adityamangal1) 	💬 
+- [@kevalvavaliya](https://github.com/kevalvavaliya) 	💬 
+- [@abhigoyani](https://github.com/abhigoyani) 	      💬 
 
 ## Community socials:
 - [Twitter]()
