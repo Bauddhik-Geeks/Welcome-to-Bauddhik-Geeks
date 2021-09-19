@@ -1,35 +1,35 @@
 name: Invite me to organization
 description: Issue to get invited to Bauddhik-Geeks organization.
-title: "[Invite]: "
+title: "invite me to organization"
 labels: ["invite me to organization"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill the details
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
+    - type: markdown
+      attributes:
+          value: |
+              Thanks for taking the time to fill the details
+    - type: input
+      id: contact
+      attributes:
+          label: Contact Details
+          description: How can we get in touch with you if we need more info?
+          placeholder: ex. email@example.com
+      validations:
+          required: false
 
-  - type: input
-    id: Discord
-    attributes:
-      label: Discord Username
-      description: Share your Bauddhik-Geeks Discord Server username.
-      placeholder: ex. Nitesh#3765
-    validations:
-      required: false
- 
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/CODE_OF_CONDUCT.md)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+    - type: input
+      id: Discord
+      attributes:
+          label: Discord Username
+          description: Share your Bauddhik-Geeks Discord Server username.
+          placeholder: ex. Nitesh#3765
+      validations:
+          required: false
+
+    - type: checkboxes
+      id: terms
+      attributes:
+          label: Code of Conduct
+          description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/CODE_OF_CONDUCT.md)
+          options:
+              - label: I agree to follow this project's Code of Conduct
+                required: true
