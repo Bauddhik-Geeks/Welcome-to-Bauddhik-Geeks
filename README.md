@@ -47,7 +47,7 @@ All the members are [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik
 - Join Bauddhik-Geeks Discord Server [here](https://discord.gg/atzZYdNMDF)
 - Create issue on this repo using the issue template
 - Add yourself [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md)  👈 
-- For more detail click 👉 [how_to_beceome_member]()
+- For more detail click 👉 [how_to_become_member]()
 -  🎊 Hurray! You're a member of such awesome community 🎉
 
 ## Join us <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
