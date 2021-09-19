@@ -1,6 +1,6 @@
 <!--   Add members data here -->
   
-  ## 👨‍🎓 Baudheek Geek Organization Members 👨‍🎓
+  ## 👨‍🎓 Baudheek Geeks Organization Members 👨‍🎓
 
 <table>
   <tr>
