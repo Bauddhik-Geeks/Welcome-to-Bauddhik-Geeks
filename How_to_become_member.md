@@ -34,6 +34,7 @@ To add yourself in Members.md file follow the following steps:
 -  Fork the current repository **"Welconme-to-Bauddhik-Geeks"**
 -  Open **Members.md** file [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/edit/main/Members.md)
 -  Add the way other members have added and you can see the syntax below 👇
+
 `<td align="center"><a href="<Your-GitHub-Profile-URL>"><img src="Link-of-profile-pic" width="100px;" alt=""/><br /><sub><b><Your-Name></b></sub></a></td>`
 -  Create pull request
 
