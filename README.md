@@ -50,7 +50,7 @@ Join the [Discord server](https://discord.gg/atzZYdNMDF) to get connected. All t
   
 <!--   Add members data here -->
   
-  ## Baudheek Geek Members 👨‍🎓
+  ## Baudheek Geek Proud Members 👨‍🎓
 
 <table>
   <tr>
