@@ -41,8 +41,13 @@ our aim is to provide:
  
 ## Members 👨‍
 All the members are [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md). Thank you for your support.
+
+## How to become member?
+
+- Join Bauddhik-Geeks Discord Server [here](https://discord.gg/atzZYdNMDF)
+- Create issue on this repo using the issue template
 - Add yourself [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md)  👈 
-- Fork this readme and add your profile data in same format in member sections below 📖
+- For more detail click 👉 [how_to_beceome_member]()
 -  🎊 Hurray! You're a member of such awesome community 🎉
 
 ## Join us <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
