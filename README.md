@@ -10,10 +10,11 @@ The vision of our community is to help the student developers or professionals w
 In this vision of Bauddhik-Geeks there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍
   
 
-⭐ **Our Core Members:**
+⭐ **Bauddhik-Geeks Members**
 - [Priyanshu Pardhi](https://github.com/priyanshupardhi) 💬 
 - [Kamlesh Joshi](https://github.com/kamleshjoshi8102) 💬 
 - [Piyush Chandal](https://github.com/Piyush-Codes7) 💬 
+  
 
 ✨ **Our Moderators:**
 - [Aditya Mangal](https://github.com/adityamangal1) 💬  
@@ -45,18 +46,21 @@ All the members are [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik
 -  🎊 Hurray! You're a member of such awesome community 🎉
 
 ## Join us <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-Join the [Discord server](https://discord.gg/atzZYdNMDF) to get connected. All the information will be shared here.
+Join the [Discord server](https://discord.gg/atzZYdNMDF) to get connected. All the information will be shared here. 👈
   
   
 <!--   Add members data here -->
   
-  ## Baudheek Geek Proud Members 👨‍🎓
+  ## If you have any queries reach out to Bauddhik-Geeks team 👨‍🎓
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://avatars.githubusercontent.com/u/72963356?v=4" width="100px;" alt=""/><br /><sub><b>Keval </b></sub></a></td>
-    <td align="center"><a href="https://github.com/Nitesh-thapliyal"><img src="https://avatars.githubusercontent.com/u/53345517?v=4" width="100px;" alt=""/><br /><sub><b>Nitesh</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://avatars.githubusercontent.com/u/72963356?v=4" width="100px;" alt=""/><br /><sub><b>Keval</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Nitesh-thapliyal"><img src="https://avatars.githubusercontent.com/u/53345517?v=4" width="100px;" alt=""/><br /><sub><b>Nitesh (Admin)</b></sub></a></td>
     <td align="center"><a href="https://github.com/adityamangal1"><img src="https://github.com/adityamangal1.png?size=460" width="100px;" alt=""/><br /><sub><b>Aditya</b></sub></a></td>
+            <td align="center"><a href="https://github.com/kamleshjoshi8102"><img src="https://avatars.githubusercontent.com/u/72374645?v=4" width="100px;" alt=""/><br /><sub><b>kamlesh </b></sub></a></td>
+    <td align="center"><a href="https://github.com/Piyush-Codes7"><img src="https://avatars.githubusercontent.com/u/61281309?v=4" width="100px;" alt=""/><br /><sub><b>Piyush </b></sub></a></td>
+    <td align="center"><a href="https://github.com/priyanshupardhi"><img src="https://avatars.githubusercontent.com/u/53074974?v=4" width="100px;" alt=""/><br /><sub><b>Priyanshu</b></sub></a></td>
 
   </tr>
 </table>
