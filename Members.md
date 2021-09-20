@@ -13,6 +13,7 @@
     <td align="center"><a href="https://github.com/aayush89890"><img src="https://github.com/aayush89890.png" width="100px;" alt=""/><br /><sub><b>Aayush Jain</b></sub></a></td>
     <td align="center"><a href="https://github.com/arnav1776"><img src="https://github.com/arnav1776.png" width="100px;" alt=""/><br /><sub><b>Arnav Sharma</b></sub></a></td>
      <td align="center"><a href="https://github.com/EFFLUX110"><img src="https://github.com/EFFLUX110.png" width="100px;" alt=""/><br /><sub><b>Mrinank</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abhigoyani"><img src="https://github.com/abhigoyani.png" width="100px;" alt="abhi"/><br /><sub><b>Abhi Goyani</b></sub></a></td>
   </tr>
 </table>
 
