@@ -10,6 +10,7 @@
     <td align="center"><a href="https://github.com/harikanani"><img src="https://github.com/harikanani.png?size=460" width="100px;" alt=""/><br /><sub><b>Harikrushn</b></sub></a></td>
     <td align="center"><a href="https://github.com/iatharva"><img src="https://github.com/iatharva.png" width="100px;" alt=""/><br /><sub><b>Atharva I</b></sub></a></td>
     <td align="center"><a href="https://github.com/aayush89890"><img src="https://github.com/aayush89890.png" width="100px;" alt=""/><br /><sub><b>Aayush Jain</b></sub></a></td>
+    <td align="center"><a href="https://github.com/EFFLUX110"><img src="https://github.com/EFFLUX110.png" width="100px;" alt=""/><br /><sub><b>Mrinank</b></sub></a></td>
   </tr>
 </table>
 
