@@ -21,11 +21,11 @@ To create an issue follow the following steps:
 -  Click on **New issue**
 -  Now you can see the issue template **"Invite me to organization"**
 -  Click in **Get Started**
--  In Contact Details enter your email address and in Discord usernme enter the your discord username in Bauddhik-Geeks discord server.
+-  In Contact Details enter your email address and in Discord username enter your discord username in Bauddhik-Geeks discord server.
 -  Check the checkbox to agree with the code of conduct.
 -  Click on **Submit new issue**
 
-**After submitting issue if you have filled the infomation correctly, if yes then we will send you invite in your email address.**
+**After submitting issue if you have filled the infomation correctly, then we will send you invite in your email address.**
 
 ## Add yourself in Members.md 😎
 
