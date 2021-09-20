@@ -27,11 +27,11 @@ To create an issue follow the following steps:
 
 **After submitting issue if you have filled the infomation correctly, if yes then we will send you invite in your email address.**
 
-## Add yourself in Memebers.md 😎
+## Add yourself in Members.md 😎
 
 To add yourself in Members.md file follow the following steps:
 
--  Fork the current repository **"Welconme-to-Bauddhik-Geeks"**
+-  Fork the current repository **"Welcome-to-Bauddhik-Geeks"**
 -  Open **Members.md** file [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/edit/main/Members.md)
 -  Add the way other members have added and you can see the syntax below 👇
 
