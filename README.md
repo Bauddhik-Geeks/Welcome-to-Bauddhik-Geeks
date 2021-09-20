@@ -7,6 +7,8 @@
 **Bauddhik-Geeks** is a community that was created in 2020 by [Nitesh Thapliyal](https://github.com/Nitesh-thapliyal) ⭐. It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓
 The vision of our community is to help the student developers or professionals with the resources that will help them in their technical journey.
 In this vision of **Bauddhik-Geeks** there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍
+  
+<a href="https://twitter.com/BauddhikGeeks" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 ⭐ **Bauddhik-Geeks Members**
 
