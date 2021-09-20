@@ -16,7 +16,7 @@
 </table>
 
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://cdn.dribbble.com/users/77121/screenshots/11529334/comp_4.gif">
+  <img alt="Sloan, the sloth mascot" width="450px" src="https://c.tenor.com/dKxFUhgijoMAAAAM/welcome-boy-welcome.gif">
    <br>
 </p>
 
