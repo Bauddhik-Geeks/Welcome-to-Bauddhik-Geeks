@@ -15,6 +15,7 @@
      <td align="center"><a href="https://github.com/EFFLUX110"><img src="https://github.com/EFFLUX110.png" width="100px;" alt=""/><br /><sub><b>Mrinank</b></sub></a></td>
     <td align="center"><a href="https://github.com/abhigoyani"><img src="https://github.com/abhigoyani.png" width="100px;" alt="abhi"/><br /><sub><b>Abhi Goyani</b></sub></a></td>
     <td align="center"><a href="https://github.com/Mayank17M"><img src="https://github.com/Mayank17M.png" width="100px;" alt="Mayank"/><br /><sub><b>Mayank</b></sub></a></td>
+    <td align="center"><a href="https://github.com/stutimongia2024"><img src="https://avatars.githubusercontent.com/u/67664303?s=400&u=bcba9c49c49b58dfc76a313a469b85c92d3447c9&v=4" width="100px;" alt="Stuti"/><br /><sub><b>Stuti</b></sub></a></td>
   </tr>
 </table>
 
