@@ -22,6 +22,10 @@
    <td align="center"><a href="https://github.com/Rajkumar-stackcoder"><img src="https://github.com/Rajkumar-stackcoder.png" width="100px;" alt="Rajkumar"/><br /><sub><b>Rajkumar Khistariya</b></sub></a></td>
   <td align="center"><a href="https://github.com/siddhiiguptaa"><img src="https://github.com/siddhiiguptaa.png" width="100px;" alt="Siddhi"/><br /><sub><b>Siddhi Gupta</b></sub></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ROCKY-BANG"><img src="https://avatars.githubusercontent.com/u/74963641?s=48&v=4" width="100px;" alt="Rocky-Bang"/><br /><sub>
+      <b>Rocky-Bang</b></sub></a></td>
+  </tr>
   
   
 </table>
