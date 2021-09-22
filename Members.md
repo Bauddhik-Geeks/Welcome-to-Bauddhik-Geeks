@@ -21,9 +21,8 @@
   <tr>
    <td align="center"><a href="https://github.com/Rajkumar-stackcoder"><img src="https://github.com/Rajkumar-stackcoder.png" width="100px;" alt="Rajkumar"/><br /><sub><b>Rajkumar Khistariya</b></sub></a></td>
   <td align="center"><a href="https://github.com/siddhiiguptaa"><img src="https://github.com/siddhiiguptaa.png" width="100px;" alt="Siddhi"/><br /><sub><b>Siddhi Gupta</b></sub></a></td>
+    <td align="center"><a href="https://github.com/rhvsingh"><img src="https://github.com/rhvsingh.png" width="100px;" alt="Raja Harsh Vardhan Singh"/><br /><sub><b>Raja Harsh Vardhan Singh</b></sub></a></td>
   </tr>
-  
-  
 </table>
 
 <p align="center">
