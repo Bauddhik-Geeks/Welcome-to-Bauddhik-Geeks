@@ -25,7 +25,7 @@
     <td align="center"><a href="https://github.com/ROCKY-BANG"><img src="https://avatars.githubusercontent.com/u/74963641?s=48&v=4" width="100px;" alt="Rocky-Bang"/><br /><sub>
       <b>Rocky-Bang</b></sub></a></td>
    
-    <!--=====PASTE_YOUR_CODE_ABOVE_THIS_LINE========-->
+  <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
   </tr>
  </table>
 
