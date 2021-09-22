@@ -20,13 +20,16 @@
   
   <tr>
    <td align="center"><a href="https://github.com/Rajkumar-stackcoder"><img src="https://github.com/Rajkumar-stackcoder.png" width="100px;" alt="Rajkumar"/><br /><sub><b>Rajkumar Khistariya</b></sub></a></td>
-  <td align="center"><a href="https://github.com/siddhiiguptaa"><img src="https://github.com/siddhiiguptaa.png" width="100px;" alt="Siddhi"/><br /><sub><b>Siddhi Gupta</b></sub></a></td>
-    <td align="center"><a href="https://github.com/rhvsingh"><img src="https://github.com/rhvsingh.png" width="100px;" alt="Raja Harsh Vardhan Singh"/><br /><sub><b>Raja Harsh Vardhan Singh</b></sub></a></td>
-    <td align="center"><a href="https://github.com/Priyanshi-Negi317"><img src="https://github.com/Priyanshi-Negi317" width="100px;" alt="Priyanshi Negi"/><br /><sub><b>Priyanshi Negi</b></sub></a></td>
+   <td align="center"><a href="https://github.com/siddhiiguptaa"><img src="https://github.com/siddhiiguptaa.png" width="100px;" alt="Siddhi"/><br /><sub><b>Siddhi Gupta</b></sub></a></td>
+   <td align="center"><a href="https://github.com/rhvsingh"><img src="https://github.com/rhvsingh.png" width="100px;" alt="Raja Harsh Vardhan Singh"/><br /><sub><b>Raja Harsh Vardhan Singh</b></sub></a></td>
+   <td align="center"><a href="https://github.com/Priyanshi-Negi317"><img src="https://github.com/Priyanshi-Negi317" width="100px;" alt="Priyanshi Negi"/><br /><sub><b>Priyanshi Negi</b></sub></a></td>
+   <td align="center"><a href="https://github.com/ROCKY-BANG"><img src="https://avatars.githubusercontent.com/u/74963641?s=48&v=4" width="100px;" alt="Rocky-Bang"/><br /><sub><b>Rocky-Bang</b></sub></a></td>
+   
+  <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
   </tr>
 </table>
 
-<p align="center">
+<p align="center"><br>
   <img alt="Sloan, the sloth mascot" width="450px" src="https://c.tenor.com/dKxFUhgijoMAAAAM/welcome-boy-welcome.gif">
    <br>
 </p>
