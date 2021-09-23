@@ -13,7 +13,9 @@
     <td align="center"><a href="https://github.com/aayush89890"><img src="https://github.com/aayush89890.png" width="100px;" alt=""/><br /><sub><b>Aayush Jain</b></sub></a></td>
     <td align="center"><a href="https://github.com/arnav1776"><img src="https://github.com/arnav1776.png" width="100px;" alt=""/><br /><sub><b>Arnav Sharma</b></sub></a></td>
      <td align="center"><a href="https://github.com/EFFLUX110"><img src="https://github.com/EFFLUX110.png" width="100px;" alt=""/><br /><sub><b>Mrinank</b></sub></a></td>
-    <td align="center"><a href="https://github.com/abhigoyani"><img src="https://github.com/abhigoyani.png" width="100px;" alt="abhi"/><br /><sub><b>Abhi Goyani</b></sub></a></td>
+    <td align="center"><a href="https://github.com/abhigoyani"><img src="https://github.com/abhigoyani.png" width="100px;" alt="abhi"/><br /><sub><b>Abhi Goyani</b></sub></a>
+    <td align="center"><a href="https://github.com/dhruvaop"><img src="https://github.com/dhruvaop.png" width="100px;" alt="Dhruva Bhattacharya"/><br /><sub><b>Dhruva Bhattacharya</b></sub></a>
+    </td>
     <td align="center"><a href="https://github.com/Mayank17M"><img src="https://github.com/Mayank17M.png" width="100px;" alt="Mayank"/><br /><sub><b>Mayank</b></sub></a></td>
     <td align="center"><a href="https://github.com/stutimongia2024"><img src="https://github.com/stutimongia2024.png" width="100px;" alt="Stuti"/><br /><sub><b>Stuti</b></sub></a></td>
   </tr>
