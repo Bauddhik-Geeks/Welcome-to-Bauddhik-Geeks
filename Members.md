@@ -26,6 +26,7 @@
    <td align="center"><a href="https://github.com/rhvsingh"><img src="https://github.com/rhvsingh.png" width="100px;" alt="Raja Harsh Vardhan Singh"/><br /><sub><b>Raja Harsh Vardhan Singh</b></sub></a></td>
    <td align="center"><a href="https://github.com/Priyanshi-Negi317"><img src="https://github.com/Priyanshi-Negi317.png" width="100px;" alt="Priyanshi Negi"/><br /><sub><b>Priyanshi Negi</b></sub></a></td>
    <td align="center"><a href="https://github.com/ROCKY-BANG"><img src="https://avatars.githubusercontent.com/u/74963641?s=48&v=4" width="100px;" alt="Rocky-Bang"/><br /><sub><b>Rocky-Bang</b></sub></a></td>
+<td align="center"><a href="https://github.com/RahulGupta899"><img src="https://avatars.githubusercontent.com/u/64692111?v=4" width="100px;" alt="Rahul Gupta"/><br /><sub><b>Rahul Gupta</b></sub></a></td>
    
   <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
   </tr>
