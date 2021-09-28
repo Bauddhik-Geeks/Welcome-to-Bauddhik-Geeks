@@ -15,7 +15,7 @@ In this vision of **Bauddhik-Geeks** there are lots of folks behind it but the s
 
 -   [Priyanshu Pardhi](https://github.com/priyanshupardhi) 💬
 -   [Kamlesh Joshi](https://github.com/kamleshjoshi8102) 💬
--   [Piyush Chandal](https://github.com/Piyush-Codes7) 💬
+-   [Piyush Chandel](https://github.com/Piyush-Codes7) 💬
 
 ✨ **Our Moderators:**
 
