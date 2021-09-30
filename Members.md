@@ -33,6 +33,7 @@
     <td align="center"><a href="https://github.com/Abhay-Parihar"><img src="https://avatars.githubusercontent.com/u/83938959?v=4" width="100px;" alt="Abhay-Parihar"/><br /><sub><b>Abhay-Parihar</b></sub></a></td>
    <td align="center"><a href="https://github.com/shaishav06"><img src="https://github.com/shaishav06.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Shaishav Surati</b></sub></a></td>
     <td align="center"><a href="https://github.com/Recognizeyourself"><img src="https://github.com/Recognizeyourself.png" width="100px;" alt="Yash Verma"/><br /><sub><b>Yash Verma</b></sub></a></td>
+       <td align="center"><a href="https://github.com/yasinbordbar"><img src="https://github.com/yasinbordbar.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Yasin Bordbar</b></sub></a></td>
   <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
     
   </tr>
