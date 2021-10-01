@@ -19,6 +19,7 @@
     </td>
     <td align="center"><a href="https://github.com/Mayank17M"><img src="https://github.com/Mayank17M.png" width="100px;" alt="Mayank"/><br /><sub><b>Mayank</b></sub></a></td>
     <td align="center"><a href="https://github.com/stutimongia2024"><img src="https://github.com/stutimongia2024.png" width="100px;" alt="Stuti"/><br /><sub><b>Stuti</b></sub></a></td>
+    
   </tr>
   
   <tr>
@@ -38,7 +39,11 @@
    <td align="center"><a href="https://github.com/mohitsaxenaknoldus"><img src="https://avatars.githubusercontent.com/u/76725454?v=4" width="100px;" alt="Mohit Saxena"/><br /><sub><b>Mohit Saxena</b></sub></a></td>
   <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
     
-  </tr>
+  <tr>
+      <td align="center"><a href="https://github.com/TzuyusForgottenLuggage"><img src="https://github.com/TzuyusForgottenLuggage.png" width="100px;" alt="Kishan"/><br /><sub><b>Kishan</b></sub></a></td>
+  <tr>
+    
+    </tr>
 </table>
 
 <p align="center"><br>
