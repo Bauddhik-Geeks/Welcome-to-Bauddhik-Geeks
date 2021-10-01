@@ -40,6 +40,7 @@
    <td align="center"><a href="https://github.com/Recognizeyourself"><img src="https://github.com/Recognizeyourself.png" width="100px;" alt="Yash Verma"/><br /><sub><b>Yash Verma</b></sub></a></td>
    <td align="center"><a href="https://github.com/yasinbordbar"><img src="https://github.com/yasinbordbar.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Yasin Bordbar</b></sub></a></td>
    <td align="center"><a href="https://github.com/mohitsaxenaknoldus"><img src="https://avatars.githubusercontent.com/u/76725454?v=4" width="100px;" alt="Mohit Saxena"/><br /><sub><b>Mohit Saxena</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Jaishree-19"><img src="https://avatars.githubusercontent.com/u/66164662?s=400&u=282cf08e4a4a669a7e5ee4bc73653e0bc403d9d4&v=4" width="100px;" alt="Jaishree-Tewari"/><br /><sub><b>Jaishree Tewari</b></sub></a></td>
   <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
     
   <tr>
