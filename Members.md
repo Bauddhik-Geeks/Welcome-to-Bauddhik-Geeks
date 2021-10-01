@@ -36,7 +36,6 @@
   </tr>
   
   <tr>
-   <td align="center"><a href="https://github.com/TzuyusForgottenLuggage"><img src="https://github.com/TzuyusForgottenLuggage.png" width="100px;" alt="Kishan"/><br /><sub><b>Kishan</b></sub></a></td>
    <td align="center"><a href="https://github.com/Aarushijain-06"><img src="https://github.com/Aarushijain-06.png" width="100px;" alt="Aarushi Jain"/><br /><sub><b>Aarushi Jain</b></sub></a></td>
    <td align="center"><a href="https://github.com/fenil3357"><img src="https://avatars.githubusercontent.com/u/78013068?v=4" width="100px;" alt="Fenil"/><br /><sub><b>Fenil</b></sub></a></td>
    <td align="center"><a href="https://github.com/Recognizeyourself"><img src="https://github.com/Recognizeyourself.png" width="100px;" alt="Yash Verma"/><br /><sub><b>Yash Verma</b></sub></a></td>
