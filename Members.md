@@ -37,9 +37,14 @@
    <td align="center"><a href="https://github.com/Recognizeyourself"><img src="https://github.com/Recognizeyourself.png" width="100px;" alt="Yash Verma"/><br /><sub><b>Yash Verma</b></sub></a></td>
    <td align="center"><a href="https://github.com/yasinbordbar"><img src="https://github.com/yasinbordbar.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Yasin Bordbar</b></sub></a></td>
    <td align="center"><a href="https://github.com/mohitsaxenaknoldus"><img src="https://avatars.githubusercontent.com/u/76725454?v=4" width="100px;" alt="Mohit Saxena"/><br /><sub><b>Mohit Saxena</b></sub></a></td>
+ 
+   
+    
   <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
     
+    
   <tr>
+    <td align="center"><a href="https://github.com/rishigupta1109"><img src="https://avatars.githubusercontent.com/u/84670640?s=400&u=2d495195e06f0be0c8b201c557732a60b6a90262&v=4" width="100px;" alt="Rishi Gupta"/><br /><sub><b>Rishi Gupta</b></sub></a></td>
       <td align="center"><a href="https://github.com/TzuyusForgottenLuggage"><img src="https://github.com/TzuyusForgottenLuggage.png" width="100px;" alt="Kishan"/><br /><sub><b>Kishan</b></sub></a></td>
   <tr>
     
