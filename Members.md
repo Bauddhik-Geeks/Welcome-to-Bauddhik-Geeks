@@ -34,6 +34,7 @@
    <td align="center"><a href="https://github.com/shaishav06"><img src="https://github.com/shaishav06.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Shaishav Surati</b></sub></a></td>
     <td align="center"><a href="https://github.com/Recognizeyourself"><img src="https://github.com/Recognizeyourself.png" width="100px;" alt="Yash Verma"/><br /><sub><b>Yash Verma</b></sub></a></td>
        <td align="center"><a href="https://github.com/yasinbordbar"><img src="https://github.com/yasinbordbar.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Yasin Bordbar</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Aarushijain-06"><img src="https://github.com/Aarushijain-06.png" width="100px;" alt="Aarushi Jain"/><br /><sub><b>Aarushi Jain</b></sub></a></td>
   <!----PASTE_YOUR_CODE_ABOVE_THIS---- -->
     
   </tr>
