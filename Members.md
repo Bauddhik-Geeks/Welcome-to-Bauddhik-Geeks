@@ -1,6 +1,10 @@
 
 
 ## 👨‍🎓 Baudheek Geeks Organization Members 👨‍🎓
+<p align="center"><br>
+  <img alt="Sloan, the sloth mascot" width="450px" src="https://c.tenor.com/dKxFUhgijoMAAAAM/welcome-boy-welcome.gif">
+   <br>
+</p>
 
 <table>
   <tr>
@@ -43,13 +47,9 @@
    <td align="center"><a href="https://github.com/rishigupta1109"><img src="https://avatars.githubusercontent.com/u/84670640?s=400&u=2d495195e06f0be0c8b201c557732a60b6a90262&v=4" width="100px;" alt="Rishi Gupta"/><br /><sub><b>Rishi Gupta</b></sub></a></td>
    <td align="center"><a href="https://github.com/Geek-Tekina"><img src="https://avatars.githubusercontent.com/u/86910934?s=400&u=54c56db98c4c38fcf51a9d57d196845ae14f8fba&v=4" width="100px;" alt=""/><br /><sub><b><Aniket></b></sub></a></td>
    <td align="center"><a href="https://github.com/Jaishree-19"><img src="https://avatars.githubusercontent.com/u/66164662?s=400&u=282cf08e4a4a669a7e5ee4bc73653e0bc403d9d4&v=4" width="100px;" alt="Jaishree-Tewari"/><br /><sub><b>Jaishree Tewari</b></sub></a></td>
-    
-    <!--PASTE_YOUR_CODE_ABOVE_THIS-->
+  
+<!--     PASTE_YOUR_CODE_ABOVE_THIS -->
    </tr>
   
 </table>
 
-<p align="center"><br>
-  <img alt="Sloan, the sloth mascot" width="450px" src="https://c.tenor.com/dKxFUhgijoMAAAAM/welcome-boy-welcome.gif">
-   <br>
-</p>
