@@ -47,9 +47,10 @@
    <td align="center"><a href="https://github.com/fenil3357"><img src="https://avatars.githubusercontent.com/u/78013068?v=4" width="100px;" alt="Fenil"/><br /><sub><b>Fenil</b></sub></a></td>  
    <td align="center"><a href="https://github.com/rishigupta1109"><img src="https://avatars.githubusercontent.com/u/84670640?s=400&u=2d495195e06f0be0c8b201c557732a60b6a90262&v=4" width="100px;" alt="Rishi Gupta"/><br /><sub><b>Rishi Gupta</b></sub></a></td>
    <td align="center"><a href="https://github.com/Geek-Tekina"><img src="https://avatars.githubusercontent.com/u/86910934?s=400&u=54c56db98c4c38fcf51a9d57d196845ae14f8fba&v=4" width="100px;" alt=""/><br /><sub><b><Aniket></b></sub></a></td>
-   <td align="center"><a href="https://github.com/Jaishree-19"><img src="https://avatars.githubusercontent.com/u/66164662?s=400&u=282cf08e4a4a669a7e5ee4bc73653e0bc403d9d4&v=4" width="100px;" alt="Jaishree-Tewari"/><br /><sub><b>Jaishree Tewari</b></sub></a></td>
+   <td align="center"><a href="https://github.com/Jaishree-19"><img src="https://avatars.githubusercontent.com/u/66164662?s=400&u=282cf08e4a4a669a7e5ee4bc73653e0bc403d9d4&v=4" width="100px;" alt="Jaishree-Tewari"/><br /><sub><b>Jaishree Tewari</b></sub></a></td> 
  <td align="center"><a href="https://github.com/adityarawat1337x"><img src="https://avatars.githubusercontent.com/adityarawat1337x" width="100px;" alt="Aditya-Rawat"/><br /><sub><b>Aditya Rawat</b></sub></a></td>
 <td align="center"><a href="https://github.com/SatyamKharote/"><img src="https://github.com/SatyamKharote.png" width="100px;" alt="Satyam-Kharote"/><br /><sub><b>Satyam Kharote</b></sub></a></td>
+    <td align="center"><a href="<https://github.com/Danish-Belal>"><img src="https://avatars.githubusercontent.com/u/75158997?s=400&u=d67f0efe8205b1103a9c51997e4c3e54967f9cd8&v=4" width="100px;" alt="Danish"/><br /><sub><b>Danish Belal</b></sub></a></td>
 <!--     PASTE_YOUR_CODE_ABOVE_THIS -->
    </tr>
   
