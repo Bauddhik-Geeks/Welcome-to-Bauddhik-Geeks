@@ -51,6 +51,8 @@
  <td align="center"><a href="https://github.com/adityarawat1337x"><img src="https://avatars.githubusercontent.com/adityarawat1337x" width="100px;" alt="Aditya-Rawat"/><br /><sub><b>Aditya Rawat</b></sub></a></td>
 <td align="center"><a href="https://github.com/SatyamKharote/"><img src="https://github.com/SatyamKharote.png" width="100px;" alt="Satyam-Kharote"/><br /><sub><b>Satyam Kharote</b></sub></a></td>
     <td align="center"><a href="https://github.com/Danish-Belal"><img src="https://avatars.githubusercontent.com/u/75158997?s=400&u=d67f0efe8205b1103a9c51997e4c3e54967f9cd8&v=4" width="100px;" alt="Danish Belal"/><br /><sub><b>Danish Belal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Wishy-S"><img src="https://avatars.githubusercontent.com/u/54708414?s=400&u=c5b2cacca8dfdc0aec99e81e5c5a0350ad289b17&v=4" width="102px;" alt="Shubham Vyas"/><br /><sub><b>Shubham Vyas</b></sub></a></td>
+    
 <!--     PASTE_YOUR_CODE_ABOVE_THIS -->
    </tr>
   
