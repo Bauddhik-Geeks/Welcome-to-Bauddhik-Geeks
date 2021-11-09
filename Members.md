@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Baudheek Geeks Organization Members 👨‍🎓
 <p align="center"><br>
-  <img alt="Sloan, the sloth mascot" width="450px" src="https://c.tenor.com/dKxFUhgijoMAAAAM/welcome-boy-welcome.gif">
+  <img alt="Sloan, the sloth mascot" width="600px" src="https://camo.githubusercontent.com/e39bc5e6c4dec0ebf1954418870f252ec8f3dad966a309cc6af82f9d2ba117a9/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3839313933363436393336353639303339392f3839373535303538303931323839343030332f426c75655f59656c6c6f775f33445f5368617065735f47656e6572616c5f5477697463685f42616e6e65725f332e676966">
    <br>
 </p>
 
