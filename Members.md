@@ -37,10 +37,10 @@
    <td align="center"><a href="https://github.com/shaishav06"><img src="https://github.com/shaishav06.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Shaishav Surati</b></sub></a></td>
    <td align="center"><a href="https://github.com/Recognizeyourself"><img src="https://github.com/Recognizeyourself.png" width="100px;" alt="Yash Verma"/><br /><sub><b>Yash Verma</b></sub></a></td>
    <td align="center"><a href="https://github.com/yasinbordbar"><img src="https://github.com/yasinbordbar.png" width="100px;" alt="Shaishav-Surati"/><br /><sub><b>Yasin Bordbar</b></sub></a></td> 
-    
+  </tr> 
   <tr>
-    <td align="center"><a href="https://github.com/aftabahmedabro/"><img src="https://github.com/AftabAhmedAbro/aftabahmedabro.png/blob/0840582e27565f8fb4ebbc40017dad902a14372b/WhatsApp%20Image%202021-10-19%20at%204.49.58%20PM.jpeg" width="100px;" alt="Aftab-Ahmed"/><br /><sub><b>Aftab Ahmed</b></sub></a></td>
-    <td align="center"><a href="https://github.com/idivyanshbansal"><img src="https://avatars.githubusercontent.com/u/86911142?s=400&u=ffa5754b3afac61caedaf55ceaa2215283107690&v=4" width="100px;" alt="Divyansh Bansal"/><br /><sub><b>Divyansh Bansal</b></sub></a></td>
+   <td align="center"><a href="https://github.com/aftabahmedabro/"><img src="https://github.com/AftabAhmedAbro/aftabahmedabro.png/blob/0840582e27565f8fb4ebbc40017dad902a14372b/WhatsApp%20Image%202021-10-19%20at%204.49.58%20PM.jpeg" width="100px;" alt="Aftab-Ahmed"/><br /><sub><b>Aftab Ahmed</b></sub></a></td>
+   <td align="center"><a href="https://github.com/idivyanshbansal"><img src="https://avatars.githubusercontent.com/u/86911142?s=400&u=ffa5754b3afac61caedaf55ceaa2215283107690&v=4" width="100px;" alt="Divyansh Bansal"/><br /><sub><b>Divyansh Bansal</b></sub></a></td>
    <td align="center"><a href="https://github.com/mohitsaxenaknoldus"><img src="https://avatars.githubusercontent.com/u/76725454?v=4" width="100px;" alt="Mohit Saxena"/><br /><sub><b>Mohit Saxena</b></sub></a></td>
    <td align="center"><a href="https://github.com/whatsinmyopsec"><img src="https://github.com/whatsinmyopsec.png" width="100px;" alt=""/><br /><sub><b>whatsinmy<br>opsec</b></sub></a></td>
    <td align="center"><a href="https://github.com/TzuyusForgottenLuggage"><img src="https://github.com/TzuyusForgottenLuggage.png" width="100px;" alt="Kishan"/><br /><sub><b>Kishan</b></sub></a></td>
@@ -49,15 +49,19 @@
    <td align="center"><a href="https://github.com/rishigupta1109"><img src="https://avatars.githubusercontent.com/u/84670640?s=400&u=2d495195e06f0be0c8b201c557732a60b6a90262&v=4" width="100px;" alt="Rishi Gupta"/><br /><sub><b>Rishi Gupta</b></sub></a></td>
    <td align="center"><a href="https://github.com/Geek-Tekina"><img src="https://avatars.githubusercontent.com/u/86910934?s=400&u=54c56db98c4c38fcf51a9d57d196845ae14f8fba&v=4" width="100px;" alt=""/><br /><sub><b><Aniket></b></sub></a></td>
    <td align="center"><a href="https://github.com/Jaishree-19"><img src="https://avatars.githubusercontent.com/u/66164662?s=400&u=282cf08e4a4a669a7e5ee4bc73653e0bc403d9d4&v=4" width="100px;" alt="Jaishree-Tewari"/><br /><sub><b>Jaishree Tewari</b></sub></a></td> 
- <td align="center"><a href="https://github.com/adityarawat1337x"><img src="https://avatars.githubusercontent.com/adityarawat1337x" width="100px;" alt="Aditya-Rawat"/><br /><sub><b>Aditya Rawat</b></sub></a></td>
-<td align="center"><a href="https://github.com/SatyamKharote/"><img src="https://github.com/SatyamKharote.png" width="100px;" alt="Satyam-Kharote"/><br /><sub><b>Satyam Kharote</b></sub></a></td>
- <td align="center"><a href="https://github.com/Danish-Belal"><img src="https://avatars.githubusercontent.com/u/75158997?s=400&u=d67f0efe8205b1103a9c51997e4c3e54967f9cd8&v=4" width="100px;" alt="Danish Belal"/><br /><sub><b>Danish Belal</b></sub></a></td>
- <td align="center"><a href="https://github.com/Wishy-S"><img src="https://avatars.githubusercontent.com/u/54708414?s=400&u=c5b2cacca8dfdc0aec99e81e5c5a0350ad289b17&v=4" width="102px;" alt="Shubham Vyas"/><br /><sub><b>Shubham Vyas</b></sub></a></td>
- <td align="center"><a href="https://github.com/thuongtruong1009"><img src="https://avatars.githubusercontent.com/thuongtruong1009" width="100px;" alt="Tran Nguyen Thuong Truong"/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a></td>
-    
+   <td align="center"><a href="https://github.com/adityarawat1337x"><img src="https://avatars.githubusercontent.com/adityarawat1337x" width="100px;" alt="Aditya-Rawat"/><br /><sub><b>Aditya Rawat</b></sub></a></td>
+   <td align="center"><a href="https://github.com/SatyamKharote/"><img src="https://github.com/SatyamKharote.png" width="100px;" alt="Satyam-Kharote"/><br /><sub><b>Satyam Kharote</b></sub></a></td>
+   <td align="center"><a href="https://github.com/rohansaini886"><img src="https://github.com/rohansaini886.png" width="100px;" alt="Satyam-Kharote"/><br /><sub><b>Rohan Saini</b></sub></a></td>
+   </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Danish-Belal"><img src="https://avatars.githubusercontent.com/u/75158997?s=400&u=d67f0efe8205b1103a9c51997e4c3e54967f9cd8&v=4" width="100px;" alt="Danish Belal"/><br /><sub><b>Danish Belal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Wishy-S"><img src="https://avatars.githubusercontent.com/u/54708414?s=400&u=c5b2cacca8dfdc0aec99e81e5c5a0350ad289b17&v=4" width="102px;" alt="Shubham Vyas"/><br /><sub><b>Shubham Vyas</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sharpsailor"><img src="https://github.com/sharpsailor.png" width="100px;" alt="Jitender-Singh"/><br /><sub><b>Jitender Singh</b></sub></a></td></tr>    
+     <td align="center"><a href="https://github.com/Danish-Belal"><img src="https://avatars.githubusercontent.com/u/75158997?s=400&u=d67f0efe8205b1103a9c51997e4c3e54967f9cd8&v=4" width="100px;" alt="Danish Belal"/><br /><sub><b>Danish Belal</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Wishy-S"><img src="https://avatars.githubusercontent.com/u/54708414?s=400&u=c5b2cacca8dfdc0aec99e81e5c5a0350ad289b17&v=4" width="102px;" alt="Shubham Vyas"/><br /><sub><b>Shubham Vyas</b></sub></a></td>
+    <td align="center"><a href="https://github.com/thuongtruong1009"><img src="https://avatars.githubusercontent.com/thuongtruong1009" width="100px;" alt="Tran Nguyen Thuong Truong"/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a></td>
     
 <!--     PASTE_YOUR_CODE_ABOVE_THIS -->
    </tr>
-  <tr> <td align="center"><a href="https://github.com/sharpsailor"><img src="https://github.com/sharpsailor.png" width="100px;" alt="Jitender-Singh"/><br /><sub><b>Jitender Singh</b></sub></a></td></tr>
 </table>
 
