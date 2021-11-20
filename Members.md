@@ -61,6 +61,7 @@
     <td align="center"><a href="https://github.com/jose-jimmy"><img src="https://user-images.githubusercontent.com/88069006/142464350-ddd2a194-39e6-4ce5-a975-73e6923b2320.png" width="100px;" alt="Jose Jimmy"/><br /><sub><b>Jose Jimmy</b></sub></a></td>
     <td align="center"><a href="https://github.com/adityarawat1337x"><img src="https://avatars.githubusercontent.com/adityarawat1337x" width="100px;" alt="Aditya-Rawat"/><br /><sub><b>Aditya Rawat</b></sub></a></td>
     <td align="center"><a href="https://github.com/rohansaini886"><img src="https://github.com/rohansaini886.png" width="100px;" alt="Satyam-Kharote"/><br /><sub><b>Rohan Saini</b></sub></a></td>
+    <td align="center"><a href="https://github.com/sonal-spd"><img src="https://github.com/sonal-spd.png" width="100px;" alt=""/><br /><sub><b>Sonal</b></sub></a></td>
     </tr>    
 <!--     PASTE_YOUR_CODE_ABOVE_THIS -->
    </tr>
