@@ -62,7 +62,8 @@
     <td align="center"><a href="https://github.com/adityarawat1337x"><img src="https://avatars.githubusercontent.com/adityarawat1337x" width="100px;" alt="Aditya-Rawat"/><br /><sub><b>Aditya Rawat</b></sub></a></td>
     <td align="center"><a href="https://github.com/rohansaini886"><img src="https://github.com/rohansaini886.png" width="100px;" alt="Satyam-Kharote"/><br /><sub><b>Rohan Saini</b></sub></a></td>
     <td align="center"><a href="https://github.com/sonal-spd"><img src="https://github.com/sonal-spd.png" width="100px;" alt=""/><br /><sub><b>Sonal</b></sub></a></td>
-    </tr>    
+    <td align="center"><a href="https://github.com/Kira272921"><img src="https://github.com/Kira272921.png" width="100px;" alt=""/><br /><sub><b>Kira</b></sub></a></td>
+    </tr>
 <!--     PASTE_YOUR_CODE_ABOVE_THIS -->
    </tr>
 </table>
