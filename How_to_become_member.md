@@ -33,10 +33,15 @@ To add yourself in Members.md file follow the following steps:
 
 -  Fork the current repository **"Welcome-to-Bauddhik-Geeks"**
 -  Make a new branch.
--  Open **Members.md** file [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/edit/main/Members.md)
+-  Create **<github username.md>** file [in members folder](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/tree/main/members)
 -  Add the way other members have added and you can see the syntax below 👇
 
-`<td align="center"><a href="<Your-GitHub-Profile-URL>"><img src="Link-of-profile-pic" width="100px;" alt=""/><br /><sub><b><Your-Name></b></sub></a></td>`
+```
+---
+name : Abhi Goyani
+username : abhigoyani
+---
+```
 -  Create pull request
 
  
