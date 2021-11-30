@@ -1,4 +1,4 @@
-name: Python Package using Conda
+name: Add members to .md file
 
 on:
   push:
