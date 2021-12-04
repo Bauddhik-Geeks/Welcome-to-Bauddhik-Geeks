@@ -48,6 +48,7 @@
 <td align="center"><a href="https://github.com/adityarawat1337x"><img src="https://github.com/adityarawat1337x.png" width="100px;" alt=""/><br /><sub><b>Aditya Rawat</b></sub></a></td>
 </tr>
 <tr>
+  <td align="center"><a href="https://github.com/himakhaitan"><img src="https://github.com/himakhaitan.png" width="100px;" alt=""/><br /><sub><b>Himanshu Khaitan</b></sub></a></td>
 <td align="center"><a href="https://github.com/Mayank17M"><img src="https://github.com/Mayank17M.png" width="100px;" alt=""/><br /><sub><b>Mayank Mamgain</b></sub></a></td>
 <td align="center"><a href="https://github.com/yasinbordbar"><img src="https://github.com/yasinbordbar.png" width="100px;" alt=""/><br /><sub><b>Yasin Br</b></sub></a></td>
 <td align="center"><a href="https://github.com/stutimongia2024"><img src="https://github.com/stutimongia2024.png" width="100px;" alt=""/><br /><sub><b>Stuti Mongia</b></sub></a></td>
