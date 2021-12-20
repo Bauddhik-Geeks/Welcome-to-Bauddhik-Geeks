@@ -55,4 +55,5 @@
 <td align="center"><a href="https://github.com/whatsinmyopsec"><img src="https://github.com/whatsinmyopsec.png" width="100px;" alt=""/><br /><sub><b>whatsinmyopsec</b></sub></a></td>
 <td align="center"><a href="https://github.com/SatyamKharote"><img src="https://github.com/SatyamKharote.png" width="100px;" alt=""/><br /><sub><b>Satyam Kharote</b></sub></a></td>
 <td align="center"><a href="https://github.com/Wishy-S"><img src="https://github.com/Wishy-S.png" width="100px;" alt=""/><br /><sub><b>Shubham Vyas</b></sub></a></td>
+<td align="center"><a href="https://github.com/LethuNsibande"><img src="https://github.com/LethuNsibande.png" width="100px;" alt=""/><br /><sub><b>Lethukuthula Nsibande</b></sub></a></td>
 </table>
