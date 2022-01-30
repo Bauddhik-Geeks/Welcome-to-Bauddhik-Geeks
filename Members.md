@@ -55,4 +55,5 @@
 <td align="center"><a href="https://github.com/rohansaini886"><img src="https://github.com/rohansaini886.png" width="100px;" alt=""/><br /><sub><b>Rohan Saini</b></sub></a></td>
 <td align="center"><a href="https://github.com/Recognizeyourself"><img src="https://github.com/Recognizeyourself.png" width="100px;" alt=""/><br /><sub><b>Yash Verma</b></sub></a></td>
 <td align="center"><a href="https://github.com/Jaishree-19"><img src="https://github.com/Jaishree-19.png" width="100px;" alt=""/><br /><sub><b>Jaishree Tewari</b></sub></a></td>
+<td align="center"><a href="https://github.com/Ayush7614"><img src="https://github.com/" width="100px;" alt=""/><br /><sub><b>Felix-Ayush</b></sub></a></td>
 </table>
