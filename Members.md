@@ -27,7 +27,7 @@
 <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://github.com/kevalvavaliya.png" width="100px;" alt=""/><br /><sub><b>keval vavaliya</b></sub></a></td>
 <td align="center"><a href="https://github.com/thuongtruong1009"><img src="https://github.com/thuongtruong1009.png" width="100px;" alt=""/><br /><sub><b>Tran Nguyen Thuong Truong</b></sub></a></td>
 <td align="center"><a href="https://github.com/kalpitmalviya"><img src="https://github.com/kalpitmalviya.png" width="100px;" alt=""/><br /><sub><b>Kalpit Malviya</b></sub></a></td>
-<td align="center"><a href="https://github.com/EFFLUX110"><img src="https://github.com/EFFLUX110.png" width="100px;" alt=""/><br /><sub><b>EFFLUX</b></sub></a></td>
+<td align="center"><a href="https://github.com/Mrinank-Bhowmick"><img src="https://github.com/EFFLUX110.png" width="100px;" alt=""/><br /><sub><b>EFFLUX</b></sub></a></td>
 <td align="center"><a href="https://github.com/Wishy-S"><img src="https://github.com/Wishy-S.png" width="100px;" alt=""/><br /><sub><b>Shubham Vyas</b></sub></a></td>
 <td align="center"><a href="https://github.com/Nitesh-thapliyal"><img src="https://github.com/Nitesh-thapliyal.png" width="100px;" alt=""/><br /><sub><b>Nitesh Thapliyal</b></sub></a></td>
 <td align="center"><a href="https://github.com/idivyanshbansal"><img src="https://github.com/idivyanshbansal.png" width="100px;" alt=""/><br /><sub><b>Divyansh Bansal</b></sub></a></td>
