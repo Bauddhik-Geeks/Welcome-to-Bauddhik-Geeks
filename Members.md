@@ -1,6 +1,7 @@
 <table>
 <tr>
 <td align="center"><a href="https://github.com/Mayank17M"><img src="https://github.com/Mayank17M.png" width="100px;" alt=""/><br /><sub><b>Mayank Mamgain</b></sub></a></td>
+<td align="center"><a href="https://github.com/WednesdaySP"><img src="https://github.com/WednesdaySP.png" width="100px;" alt=""/><br /><sub><b>Shashi Prabha</b></sub></a></td>
 <td align="center"><a href="https://github.com/Kira272921"><img src="https://github.com/Kira272921.png" width="100px;" alt=""/><br /><sub><b>Kira</b></sub></a></td>
 <td align="center"><a href="https://github.com/adityamangal1"><img src="https://github.com/adityamangal1.png" width="100px;" alt=""/><br /><sub><b>Aditya Mangal</b></sub></a></td>
 <td align="center"><a href="https://github.com/aayush89890"><img src="https://github.com/aayush89890.png" width="100px;" alt=""/><br /><sub><b>Aayush Jain</b></sub></a></td>
