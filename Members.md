@@ -57,4 +57,5 @@
 <td align="center"><a href="https://github.com/stutimongia2024"><img src="https://github.com/stutimongia2024.png" width="100px;" alt=""/><br /><sub><b>Stuti Mongia</b></sub></a></td>
 <td align="center"><a href="https://github.com/idivyanshbansal"><img src="https://github.com/idivyanshbansal.png" width="100px;" alt=""/><br /><sub><b>Divyansh Bansal</b></sub></a></td>
 <td align="center"><a href="https://github.com/ROCKY-BANG"><img src="https://github.com/ROCKY-BANG.png" width="100px;" alt=""/><br /><sub><b>ROHAN</b></sub></a></td>
+<td align="centre"><a herf="https://github.com/daky2024"><img src="https://github.com/daky2024.png" width="100px;" alt=""/><br /><sub><b>Dakshata</b></sub></a></td>
 </table>
