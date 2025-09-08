@@ -56,5 +56,5 @@
 <td align="center"><a href="https://github.com/prathamesh-borse"><img src="https://github.com/prathamesh-borse.png" width="100px;" alt=""/><br /><sub><b>Prathamesh Borse</b></sub></a></td>
 <td align="center"><a href="https://github.com/stutimongia2024"><img src="https://github.com/stutimongia2024.png" width="100px;" alt=""/><br /><sub><b>Stuti Mongia</b></sub></a></td>
 <td align="center"><a href="https://github.com/idivyanshbansal"><img src="https://github.com/idivyanshbansal.png" width="100px;" alt=""/><br /><sub><b>Divyansh Bansal</b></sub></a></td>
-<td align="center"><a href="https://github.com/ROCKY-BANG"><img src="https://github.com/ROCKY-BANG.png" width="100px;" alt=""/><br /><sub><b>ROHAN</b></sub></a></td>
+<td align="center"><a href="https://github.com/ROCKY-BANG"><img src="https://github.com/ROCKY-BANG.png" width="100px;" alt=""/><br /><sub><b>ROHAN</b></sub></a></td>                                <td align="center"><a href="https://github.com/anshumanjadiya1102"><img src="https://github.com/anshumanjadiya1102.png" width="100px;" alt=""/><br /><sub><b>Anshuman Jadiya</b></sub></a></td>
 </table>
